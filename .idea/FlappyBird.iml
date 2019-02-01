@@ -10,5 +10,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="p5" level="application" />
     <orderEntry type="library" name="p5.dom" level="application" />
+    <orderEntry type="library" name="main" level="application" />
+    <orderEntry type="library" name="pipe" level="application" />
+    <orderEntry type="library" name="bird" level="application" />
   </component>
 </module>
